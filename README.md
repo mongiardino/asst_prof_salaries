@@ -8,7 +8,7 @@ List of public R1 institution in the US: [Wikipedia](https://en.wikipedia.org/wi
 
 Assignment of county (or unincorporated cities) to universities was done by hand and based on the city where the main campus is located according to Wikipedia. For large cities spanning multiple counties, cost of living is the between all of them.
 
-![sorting_example](https://github.com/mongiardino/genesortR/blob/main/images/sorting_example.jpeg)
-**Fig. 1:** Value of the seven gene properties against the order in which loci are sorted according to their phylogenetic usefulness. Loci are from a sea urchin transcriptomic dataset (2,356 loci) of Mongiardino Koch & Thompson (2020). Regression lines correspond to generalized additive models (GAM).
+![plot]([https://github.com/mongiardino/genesortR/blob/main/images/sorting_example.jpeg](https://github.com/mongiardino/asst_prof_salaries/blob/main/salary_plot.jpg))
+**Fig. 1:** Average assistant professor salary against county-level cost of living for a family of four. All values are annual and expressed in thousands of dollars. Both a 1:1 line and a linear regression are plotted and used to classify universities into three categories.
 
 
