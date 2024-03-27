@@ -7,7 +7,7 @@ Dataset of average assistant professor salaries across US public R1 institutions
 * List of public R1 institution in the US: [Wikipedia](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States)
 
 
-Assignment of county (or unincorporated cities) to universities was done by hand and based on the city where the main campus is located according to Wikipedia. For large cities spanning multiple counties, cost of living is the average between all of them.
+Assignment of county (or unincorporated city) to universities was done by hand and based on the city where the main campus is located according to Wikipedia. For large cities spanning multiple counties, cost of living is the average between all of them.
 
 Expected salary represents the value predicted by the linear regression.
 
