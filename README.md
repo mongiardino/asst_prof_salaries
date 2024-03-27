@@ -11,6 +11,8 @@ Assignment of county (or unincorporated city) to universities was done by hand a
 
 Expected salary represents the value predicted by the linear regression.
 
+The major caveat of this analysis is that the composition of assistant professors across universities can vary depending on the presence/absence/strength of different departments. For example, places with strong departments of engineering, business, economy, or other discipline with a high market value, would be biased upwards, while institutions without some/all of those departments would be biased downwards. Such large differences in composition could mean that the average salary is a poor predictor of the salary that would be offered to any incoming faculty.
+
 ## Table
 A csv file with the data can be downloaded from this repository.
 
