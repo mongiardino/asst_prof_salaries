@@ -9,6 +9,10 @@ Dataset of average assistant professor salaries across US public R1 institutions
 
 Assignment of county (or unincorporated cities) to universities was done by hand and based on the city where the main campus is located according to Wikipedia. For large cities spanning multiple counties, cost of living is the between all of them.
 
+## Table
+
+
+## Plot
 ![plot](https://github.com/mongiardino/asst_prof_salaries/blob/main/salary_plot.jpg)
 **Fig. 1:** Average assistant professor salary against county-level cost of living for a family of four. All values are annual and expressed in thousands of dollars. Both a 1:1 line and a linear regression are plotted and used to classify universities into three categories.
 
