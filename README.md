@@ -3,7 +3,7 @@ Dataset of average assistant professor salaries across US public R1 institutions
 
 ## Data
 * Average assistant professor salaries for year 2022: [AAUP Faculty Compensation Survey](https://data.aaup.org/ft-faculty-salaries/)
-* County-level cost of living for family of 2 adults and 2 children: [Economic Policy Institute Family Budget Map](https://www.epi.org/resources/budget/budget-map/)
+* County-level cost of living for family of 2 adults and 2 children for year 2023: [Economic Policy Institute Family Budget Map](https://www.epi.org/resources/budget/budget-map/)
 * List of public R1 institution in the US: [Wikipedia](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States)
 
 
