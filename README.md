@@ -18,7 +18,7 @@ A csv file with the data can be downloaded from this repository.
 
 The visualization of it below was generated using https://csvtomd.com/#/
 
-| University                                  | Average assistant professor salary | County/city                                      | Cost of living | Expected salary | Salary difference (actual - expected) | Relative difference (actual / expected) | Above average | Above 1:1 |
+| University                                  | Average assistant professor salary | County/city                                      | Cost of living | Expected salary | Salary difference (actual - expected) | Relative difference (actual / expected) * 100 | Above average | Above 1:1 |
 | ------------------------------------------- | ---------------------------------- | ------------------------------------------------ | -------------- | --------------- | ------------------------------------- | --------------------------------------- | ------------- | --------- |
 | University of Texas at Dallas               | 125.6                              | Dallas County-Collin County                      | 103.6          | 93.4            | 32.2                                  | 134.5                                   | yes           | yes       |
 | University of Texas at Austin               | 119.6                              | Travis County                                    | 108.6          | 95.3            | 24.3                                  | 125.5                                   | yes           | yes       |
